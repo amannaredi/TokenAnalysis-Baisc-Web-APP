@@ -1,10 +1,11 @@
-Certainly! Below is an example of a README file for your GitHub repository along with instructions on how to run the Flask application and set up the necessary environment variables using a `.env` file:
 
----
+
+
 
 # Token Analysis Flask App
 
 This Flask web application is designed to analyze small-cap token projects using OpenAI's GPT-3.5 language model. Users can submit details about their token project, and the application will provide an AI-generated analysis based on the provided information.
+---
 
 ## Installation
 
